@@ -1,2 +1,3 @@
-# Customer-Churn-Analysis
-Analyzed 90,000+ customer records to identify churn patterns using Python (Pandas, NumPy, Seaborn, Scikit-learn). Developed a Random Forest Classifier, achieving 69% accuracy for churn prediction. Performed EDA, data preprocessing, categorical encoding, and feature scaling for better model efficiency.
+# Customer Churn Analysis & Prediction (using Machine Learning and Power BI)
+## Project Objectives
+The goal of this project is to analyze customer churn patterns and predict churn using machine learning. A Random Forest Classifier was built with 69% accuracy, and Power BI dashboards were developed to visualize key trends. This helps businesses identify at-risk customers and improve retention strategies.
