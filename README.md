@@ -20,4 +20,4 @@ The goal of this project is to analyze customer churn patterns and predict churn
 - How does internet usage (GB),customer impact churn rates?
 
   ## View Dashboard:
-- <a href="https://github.com/Mubasheerashirur/Customer-Churn-Analysis/blob/main/Screenshot%20(131).png">View Dashboard</a>
+- <a href="https://github.com/Mubasheerashirur/Customer-Churn-Analysis/blob/main/Screenshot%20(131).png">
